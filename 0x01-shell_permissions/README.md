@@ -1,1 +1,1 @@
-owner and groups
+group owner
