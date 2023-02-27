@@ -1,1 +1,1 @@
-binary decimal
+variable expansions
