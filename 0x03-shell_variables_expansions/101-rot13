@@ -1,1 +1,2 @@
-trv'A -Ma -mN -Zn -z' 'N -Zn -z A -Ma -m'
+#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
